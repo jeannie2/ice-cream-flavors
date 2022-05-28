@@ -1,7 +1,7 @@
 {
   "name": "icecream-flavors",
   "version": "1.0.2",
-  "description": "A simple NPM package to get random icecream flavors",
+  "description": "A simple NPM package to get random ice cream flavors",
   "license": "MIT",
   "author": "Jasper",
   "private": false,
