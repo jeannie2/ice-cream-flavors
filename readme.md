@@ -1,8 +1,8 @@
-# Icecream Flavors
+# icecream-flavors
 
 > A simple NPM package to get random icecream flavors
 
-<img src="https://cloud.githubusercontent.com/assets/170270/7563453/ad57a684-f7dd-11e4-8302-081f132e8653.png" width="100" height="112" align="right">
+<img src="https://github.com/jeannie2/icecream/blob/ebe30e1488165bd63aedcf9168c1fca5df353064/cone.png" width="150" height="200" align="right">
 
 # Install
 ```
