@@ -1,23 +1,23 @@
 {
   "name": "icecream-flavors",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple NPM package to get random icecream flavors",
   "license": "MIT",
-  "author": "Jeannie N",
+  "author": "Jasper",
   "private": false,
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeannie2/npm.git"
+    "url": "git+https://github.com/jeannie2/icecream-flavors.git"
   },
   "engines": {
     "node": ">=6.0.0"
   },
-  "homepage": "https://github.com/jeannie2/npm",
+  "homepage": "https://github.com/jeannie2/icecream-flavors#readme",
   "bugs": {
-    "url": "https://github.com/jeannie2/npm/issues"
+    "url": "https://github.com/jeannie2/icecream-flavors/issues"
   },
   "main": "index.js",
   "keywords": [
@@ -25,8 +25,5 @@
     "fun",
     "random",
     "food"
-  ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  ]
 }
