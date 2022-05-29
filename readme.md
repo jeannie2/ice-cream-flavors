@@ -1,4 +1,4 @@
-# icecream-flavors
+# ice-cream-flavors
 
 > A simple NPM package to get random ice cream flavors
 
@@ -6,13 +6,13 @@
 
 # Install
 ```
-npm install icecream-flavors
+npm install ice-cream-flavors
 ```
 
 # Usage
 
 ```
-const icecream = require('icecream-flavors');
+const icecream = require('ice-cream-flavors');
 
 icecream.getRandomFlavor();
 //=> 'chocolate'
